@@ -19,7 +19,7 @@ I'm a FrontEnd developer from China 🇨🇳
 ![guoming's GitHub stats](https://github-readme-stats.vercel.app/api?username=GHkmmm&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GHkmmm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=GHkmmm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHkmmm&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=GHkmmm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHkmmm&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<br /> -->
+<br />
