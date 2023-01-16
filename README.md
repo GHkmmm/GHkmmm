@@ -1,6 +1,6 @@
-<p align="center"><img width="80%" alt="guoming's photo" src="https://pic1.58cdn.com.cn/nowater/webim/big/n_v216e290827f36437aaf95df66c125e059.jpg" /></p>
+<!-- <p align="center"><img width="80%" alt="guoming's photo" src="https://pic1.58cdn.com.cn/nowater/webim/big/n_v216e290827f36437aaf95df66c125e059.jpg" /></p>
 
-<br />
+<br /> -->
 
 I'm a FrontEnd developer from China 🇨🇳
 
@@ -16,7 +16,7 @@ I'm a FrontEnd developer from China 🇨🇳
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=GHkmmm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHkmmm&layout=compact&theme=buefy&hide_border=true" /> |
+<!-- | <img align="center" src="https://github-readme-stats.vercel.app/api?username=GHkmmm&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GHkmmm&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
-<br />
+<br /> -->
