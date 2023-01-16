@@ -1,4 +1,6 @@
-<img src="https://pic4.58cdn.com.cn/nowater/webim/big/n_v2647a9ee988ec40ad8c402c2fd9c27ed2.jpg" alt="1E68DA44-7947-4CF8-BE5D-02ADF62B228F.JPG" title="1E68DA44-7947-4CF8-BE5D-02ADF62B228F.JPG" />
+<p align="center"><img width="80%" alt="guoming's photo" src="https://pic4.58cdn.com.cn/nowater/webim/big/n_v2647a9ee988ec40ad8c402c2fd9c27ed2.jpg" /></p>
+
+<br />
 
 I'm a FrontEnd developer from China 🇨🇳
 
